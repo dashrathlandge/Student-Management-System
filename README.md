@@ -119,9 +119,11 @@ Advanced hosting or server setups may involve additional costs.
 If the system crashes or the server fails, access to data may be temporarily lost.
 
 --step 1:create database
-Create databases students _records;
+
+    Create databases students _records;
 --step 2: use database
-use students _records;
+
+    use students _records;
 --step 3:create Tables students 
 
     create table students (
